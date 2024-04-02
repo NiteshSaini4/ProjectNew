@@ -25,6 +25,6 @@ public class LoginClass {
 	}
 	public void user_Sub()
 	{
-		Submit.click();
+		Submit.submit();
 	}
 }
